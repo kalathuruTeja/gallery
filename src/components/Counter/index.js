@@ -17,10 +17,10 @@ class Counter extends Component {
             <div className="container">
         <h1 className="count">Count {count}</h1>
         <button className="button" onClick={this.onIncrement}>
-          Increase
+          Increases
         </button>
         <button className="button" onClick={this.onDecrement}>
-          Decrease
+          Decreases
         </button>
       </div>
         </center>
